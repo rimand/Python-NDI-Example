@@ -1,5 +1,8 @@
 # Python NDI Example
 
+## Example
+> https://www.youtube.com/watch?v=Fi7vUHZqvEI
+
 ![image](https://user-images.githubusercontent.com/17475338/154857589-a6ff6e15-ae28-4a9f-9b8f-cba8ceee9193.png)
 
 ## Read NDI
@@ -32,4 +35,6 @@
  cv.createTrackbar("SizeArea","Parameters",5000,30000,empty)
 ```
 
-Lib : https://github.com/CarlosFdez/pyNDI
+## Library
+ ####  pyNDI 
+> https://github.com/CarlosFdez/pyNDI
