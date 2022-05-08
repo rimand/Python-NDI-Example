@@ -38,3 +38,6 @@
 ## Library
  ####  pyNDI 
 > https://github.com/CarlosFdez/pyNDI
+  ####  pip install cffi 
+> https://pypi.org/project/cffi/
+
